@@ -25,6 +25,6 @@ mCoNaLa data https://drive.google.com/drive/folders/1A0VFrBJLPVwQ1Cp9x9---1V_J3z
 
 Original PLBART: https://github.com/wasiahmad/PLBART.git
 
-<img width="500" alt="Screenshot 2023-05-25 at 15 11 58" src="https://github.com/ekarakatya/code_summarization/assets/47139315/29baf700-552a-4939-b371-39635f9764da">
+<img width="600" alt="Screenshot 2023-05-25 at 15 19 18" src="https://github.com/ekarakatya/code_summarization/assets/47139315/35318b8c-6a97-4fa4-a8c0-466cd1b7a40f">
 
-<img width="900" alt="Screenshot 2023-05-25 at 15 15 11" src="https://github.com/ekarakatya/code_summarization/assets/47139315/af50b5da-3908-46b9-b7ef-43523c526dc4">
+<img width="900" alt="Screenshot 2023-05-25 at 15 18 54" src="https://github.com/ekarakatya/code_summarization/assets/47139315/54549724-40dc-4990-bdd7-7a5a1a2c7bed">
