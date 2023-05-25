@@ -3,8 +3,6 @@ Code summarization system in Russian
 
 Code comment generation or code summarization is a code-to-text task, i.e., the automatic generation of a text description by code snippet. Currently, many methods can generate comments on the code in English. However, programmers using the same programming languages may speak different natural languages. At the same time, the automatic generation of comments in other languages is still a little-studied topic. In this paper, we propose a code comment generation method in Russian.
 
-
-
 Results of experiments with ru PLBART: https://docs.google.com/spreadsheets/d/1J0it1IaNo_UbKtbOHp8_B0tFFhYzSV_1ru5sqzOiQC4/edit?usp=sharing
 
 Google Drive sharing links:
@@ -26,3 +24,7 @@ Python codeXGLUE data https://drive.google.com/file/d/1ZNeHR7XZG0-zhy3x84NsanDpn
 mCoNaLa data https://drive.google.com/drive/folders/1A0VFrBJLPVwQ1Cp9x9---1V_J3zJlf7I?usp=sharing
 
 Original PLBART: https://github.com/wasiahmad/PLBART.git
+
+<img width="500" alt="Screenshot 2023-05-25 at 15 11 58" src="https://github.com/ekarakatya/code_summarization/assets/47139315/29baf700-552a-4939-b371-39635f9764da">
+
+<img width="900" alt="Screenshot 2023-05-25 at 15 15 11" src="https://github.com/ekarakatya/code_summarization/assets/47139315/af50b5da-3908-46b9-b7ef-43523c526dc4">
